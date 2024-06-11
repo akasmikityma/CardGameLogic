@@ -1,0 +1,13 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GameMechanincs.js",
+  "scripts": {
+    "dev": "node src/GameEnter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
